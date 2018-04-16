@@ -23,7 +23,7 @@ Files are automatically deleted after 5 days from your google drive.
 
     Get backupcamup_pi using installer / installer backupcamup_pi via l'installer:
 
-    wget https://raw.github.com/Domo-Com/BackupcamIP/master/backupcamip.tar.gz
+    wget https://raw.github.com/Domo-Com/BackupcamIP/master/setup_backupcam.sh
     
 and sudo sh ./setup_backupcam.sh
 
